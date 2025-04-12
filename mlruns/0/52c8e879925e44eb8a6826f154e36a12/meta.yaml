@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MDSC105/mlruns/0/52c8e879925e44eb8a6826f154e36a12/artifacts
+end_time: 1744430352534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52c8e879925e44eb8a6826f154e36a12
+run_name: monumental-fish-883
+run_uuid: 52c8e879925e44eb8a6826f154e36a12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744430352436
+status: 4
+tags: []
+user_id: codespace

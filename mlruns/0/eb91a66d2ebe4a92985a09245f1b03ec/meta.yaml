@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MDSC105/mlruns/0/eb91a66d2ebe4a92985a09245f1b03ec/artifacts
+end_time: 1744430841770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb91a66d2ebe4a92985a09245f1b03ec
+run_name: efficient-smelt-476
+run_uuid: eb91a66d2ebe4a92985a09245f1b03ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744430815707
+status: 3
+tags: []
+user_id: codespace

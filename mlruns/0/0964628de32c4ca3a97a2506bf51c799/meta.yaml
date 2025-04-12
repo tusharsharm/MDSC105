@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MDSC105/mlruns/0/0964628de32c4ca3a97a2506bf51c799/artifacts
+end_time: 1744431160676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0964628de32c4ca3a97a2506bf51c799
+run_name: rebellious-gnu-897
+run_uuid: 0964628de32c4ca3a97a2506bf51c799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744431136913
+status: 3
+tags: []
+user_id: codespace

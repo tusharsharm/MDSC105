@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MDSC105/mlruns/0/52954af56fed41b3b1161dd1538e4523/artifacts
+end_time: 1744211916563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52954af56fed41b3b1161dd1538e4523
+run_name: SparkML-LogReg-Churn
+run_uuid: 52954af56fed41b3b1161dd1538e4523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744211884499
+status: 3
+tags: []
+user_id: codespace
